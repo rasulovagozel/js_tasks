@@ -15,3 +15,4 @@ for(let i=2;i<a;i++){
 else{
     console.log(`${a} is neither a prime nor a complex number.`);
 }
+
